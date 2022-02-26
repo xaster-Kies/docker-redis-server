@@ -7,4 +7,4 @@ RUN apk add --update redis
 
 
 # Tell the image what to do when  it starts as a computer
-CMD [ "docker-redis-server" ]
+CMD [ "redis-server" ]
