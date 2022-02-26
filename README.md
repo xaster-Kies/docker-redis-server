@@ -1,2 +1,15 @@
 # docker-redis-server
-Configuring a redis server image with docker
+## Container Image Specifications
+
+#### Usage
+- Install docker on your system [here](https://docs.docker.com/get-docker/)
+
+- Run these commands: 
+```
+docker build .
+```
+```
+docker run {image-id}
+```
+
+- Container will now be accessible on your local computer 💻
